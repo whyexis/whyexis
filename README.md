@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whyexis
 - 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning JavaScript and principles of programming through Rocket Academy's Basics Course.
+- 🌱 I’m currently learning Golang.
 
 <!---
 whyexis/whyexis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
